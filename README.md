@@ -1,8 +1,6 @@
-# Course Project - Trie (Prefix Tree) Implementation
-Daniel Adams
-CSPB 2270 Data Structures
-Fall 2025 - Prof. Guinn
-The project must be submitted by December 4 at 11:59pm MT.
+# CIRT - Course Information Retrieval Tool
+Note, this project was made originally for my CSPB 2270 Data Structures course as a way to implement a Trie (Prefix Tree)
+CSPB 2270 Computer Science II: Data Structures | CU Boulder | Fall 2025 - Prof. Guinn
 ## About the Project
 Create a course information retrieval tool (CIRT), based on a trie (prefix tree) data structure.
 The project will output course information based on a user-provided input string (course subject code).
